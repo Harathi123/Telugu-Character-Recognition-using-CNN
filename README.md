@@ -1,6 +1,6 @@
 HANDWRITTEN TELUGU CHARACTER RECOGNITION USING CONVOLUTIONAL NEURAL NETWORKS
 ==============
-
+sample
 Data set for my project:
 
 The dataset is downloaded from HP Labs India website (http://lipitk.sourceforge.net/datasets/teluguchardata.htm).This dataset contains approx. 270 samples of each of 166 Telugu "characters" written by native Telugu writers. The dataset contains wide variation of distinct characters because of different peoples’ writing styles. The characters are made available for download as TIFF files. Some of these character images are very complex shaped and closely correlated with others. 
