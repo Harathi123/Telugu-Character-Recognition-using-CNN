@@ -17,9 +17,3 @@ Software Requirements:
 3. keras
 4. matplotlib
 5. scikit-learn
-
-
-Used th following command to set Keras with Tensorflow backend
-
-"set KERAS_BACKEND=tensorflow
-python -c "from keras import backend"
